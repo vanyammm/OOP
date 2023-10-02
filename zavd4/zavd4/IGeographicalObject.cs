@@ -10,8 +10,5 @@ internal interface IGeographicalObject
 
     double Y { get; }
 
-    string GetInfo()
-    {
-
-    }
+    string GetInfo();
 }

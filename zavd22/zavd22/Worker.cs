@@ -6,7 +6,7 @@ abstract class Worker
     public string Position;
     public string WorkDay = "";
 
-    protected Worker(string name)
+    public Worker(string name)
     {
         Name = name;
     }

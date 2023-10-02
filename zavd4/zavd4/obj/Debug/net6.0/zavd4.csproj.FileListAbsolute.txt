@@ -1,0 +1,15 @@
+D:\mycppprojects\zavd4\zavd4\bin\Debug\net6.0\zavd4.exe
+D:\mycppprojects\zavd4\zavd4\bin\Debug\net6.0\zavd4.deps.json
+D:\mycppprojects\zavd4\zavd4\bin\Debug\net6.0\zavd4.runtimeconfig.json
+D:\mycppprojects\zavd4\zavd4\bin\Debug\net6.0\zavd4.dll
+D:\mycppprojects\zavd4\zavd4\bin\Debug\net6.0\zavd4.pdb
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.csproj.AssemblyReference.cache
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.AssemblyInfoInputs.cache
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.AssemblyInfo.cs
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.csproj.CoreCompileInputs.cache
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.dll
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\refint\zavd4.dll
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.pdb
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\zavd4.genruntimeconfig.cache
+D:\mycppprojects\zavd4\zavd4\obj\Debug\net6.0\ref\zavd4.dll

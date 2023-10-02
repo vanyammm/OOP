@@ -1,9 +1,14 @@
 ﻿namespace zavd4;
 
-abstract class GeographicObject : IGeographicObject
+abstract class GeographicObject : IGeographicalObject
 {
-    double X, Y;
-    string Name, Description;
+    public string Name { get; }
+
+    public string Description { get; }
+
+    public double X { get; }
+
+    public double Y { get; }
 
     public GeographicObject(double x, double y, string name, string description)
     {
@@ -18,8 +23,11 @@ abstract class GeographicObject : IGeographicObject
         }
 
         X = x; 
+
         Y = y; 
+
         Name = name;
+
         Description = description;
     }
     

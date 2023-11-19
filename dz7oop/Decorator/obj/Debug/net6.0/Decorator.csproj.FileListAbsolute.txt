@@ -1,0 +1,15 @@
+D:\mycppprojects\dz7oop\Decorator\bin\Debug\net6.0\Decorator.exe
+D:\mycppprojects\dz7oop\Decorator\bin\Debug\net6.0\Decorator.deps.json
+D:\mycppprojects\dz7oop\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+D:\mycppprojects\dz7oop\Decorator\bin\Debug\net6.0\Decorator.dll
+D:\mycppprojects\dz7oop\Decorator\bin\Debug\net6.0\Decorator.pdb
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.dll
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.pdb
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+D:\mycppprojects\dz7oop\Decorator\obj\Debug\net6.0\ref\Decorator.dll

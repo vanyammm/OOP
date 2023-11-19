@@ -1,0 +1,15 @@
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+D:\mycppprojects\dz7oop\Mediator\bin\Debug\net6.0\Mediator.exe
+D:\mycppprojects\dz7oop\Mediator\bin\Debug\net6.0\Mediator.deps.json
+D:\mycppprojects\dz7oop\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+D:\mycppprojects\dz7oop\Mediator\bin\Debug\net6.0\Mediator.dll
+D:\mycppprojects\dz7oop\Mediator\bin\Debug\net6.0\Mediator.pdb
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.dll
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.pdb
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+D:\mycppprojects\dz7oop\Mediator\obj\Debug\net6.0\ref\Mediator.dll

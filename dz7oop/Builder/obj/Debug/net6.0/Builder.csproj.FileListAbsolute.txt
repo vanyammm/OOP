@@ -1,0 +1,15 @@
+D:\mycppprojects\dz7oop\Builder\bin\Debug\net6.0\Builder.exe
+D:\mycppprojects\dz7oop\Builder\bin\Debug\net6.0\Builder.deps.json
+D:\mycppprojects\dz7oop\Builder\bin\Debug\net6.0\Builder.runtimeconfig.json
+D:\mycppprojects\dz7oop\Builder\bin\Debug\net6.0\Builder.dll
+D:\mycppprojects\dz7oop\Builder\bin\Debug\net6.0\Builder.pdb
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.csproj.AssemblyReference.cache
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.AssemblyInfoInputs.cache
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.AssemblyInfo.cs
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.csproj.CoreCompileInputs.cache
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.dll
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\refint\Builder.dll
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.pdb
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\Builder.genruntimeconfig.cache
+D:\mycppprojects\dz7oop\Builder\obj\Debug\net6.0\ref\Builder.dll

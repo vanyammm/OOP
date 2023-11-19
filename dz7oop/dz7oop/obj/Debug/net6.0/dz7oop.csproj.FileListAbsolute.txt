@@ -1,0 +1,5 @@
+D:\mycppprojects\dz7oop\dz7oop\obj\Debug\net6.0\dz7oop.csproj.AssemblyReference.cache
+D:\mycppprojects\dz7oop\dz7oop\obj\Debug\net6.0\dz7oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\dz7oop\dz7oop\obj\Debug\net6.0\dz7oop.AssemblyInfoInputs.cache
+D:\mycppprojects\dz7oop\dz7oop\obj\Debug\net6.0\dz7oop.AssemblyInfo.cs
+D:\mycppprojects\dz7oop\dz7oop\obj\Debug\net6.0\dz7oop.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+D:\mycppprojects\dz8oop\dz8oop\bin\Debug\net6.0\dz8oop.exe
+D:\mycppprojects\dz8oop\dz8oop\bin\Debug\net6.0\dz8oop.deps.json
+D:\mycppprojects\dz8oop\dz8oop\bin\Debug\net6.0\dz8oop.runtimeconfig.json
+D:\mycppprojects\dz8oop\dz8oop\bin\Debug\net6.0\dz8oop.dll
+D:\mycppprojects\dz8oop\dz8oop\bin\Debug\net6.0\dz8oop.pdb
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.csproj.AssemblyReference.cache
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.AssemblyInfoInputs.cache
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.AssemblyInfo.cs
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.csproj.CoreCompileInputs.cache
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.dll
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\refint\dz8oop.dll
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.pdb
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\dz8oop.genruntimeconfig.cache
+D:\mycppprojects\dz8oop\dz8oop\obj\Debug\net6.0\ref\dz8oop.dll

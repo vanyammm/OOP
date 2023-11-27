@@ -1,0 +1,16 @@
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\bin\Debug\net6.0\9zhovtnaoop.exe
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\bin\Debug\net6.0\9zhovtnaoop.deps.json
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\bin\Debug\net6.0\9zhovtnaoop.runtimeconfig.json
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\bin\Debug\net6.0\9zhovtnaoop.dll
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\bin\Debug\net6.0\9zhovtnaoop.pdb
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.csproj.AssemblyReference.cache
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.AssemblyInfoInputs.cache
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.AssemblyInfo.cs
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.csproj.CoreCompileInputs.cache
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.dll
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\refint\9zhovtnaoop.dll
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.pdb
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\9zhovtnaoop.genruntimeconfig.cache
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\obj\Debug\net6.0\ref\9zhovtnaoop.dll
+D:\mycppprojects\9zhovtnaoop\9zhovtnaoop\bin\Debug\net6.0\myfile.json
